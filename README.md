@@ -38,13 +38,9 @@ When you chat with AI about an entity, all relevant context is automatically inc
 
 ## Screenshots
 
-*Coming soon*
 
-<!--
-![Dashboard](screenshots/dashboard.png)
-![Entity View](screenshots/entity-view.png)
-![AI Chat](screenshots/ai-chat.png)
--->
+<img width="1799" height="1037" alt="Screenshot 2026-03-08 at 16 05 56" src="https://github.com/user-attachments/assets/0339f12a-f183-44f4-874a-e1ff9b63b860" />
+
 
 ---
 
