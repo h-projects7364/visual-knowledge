@@ -2,6 +2,8 @@
 
 AI-powered context management platform that gives AI tools persistent, visual context.
 
+**[Live Demo](https://visualknowledgev0.vercel.app)**
+
 ## The Problem
 
 AI tools lack persistent context. Every conversation starts from scratch - users re-explain the same context over and over.
@@ -38,11 +40,9 @@ When you chat with AI about an entity, all relevant context is automatically inc
 
 ## Screenshots
 
-
-<img width="1799" height="1037" alt="Screenshot 2026-03-08 at 16 05 56" src="https://github.com/user-attachments/assets/0339f12a-f183-44f4-874a-e1ff9b63b860" />
-
+<img width="1799" alt="Dashboard" src="https://github.com/user-attachments/assets/0339f12a-f183-44f4-874a-e1ff9b63b860" />
 
 ---
 
 **Status**: In active development
-**Access**: Private repository - [contact for access](mailto:)
+**Live**: [visualknowledgev0.vercel.app](https://visualknowledgev0.vercel.app)
